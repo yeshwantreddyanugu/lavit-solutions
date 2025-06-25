@@ -15,7 +15,7 @@ function App() {
   }, []);
 
   return (
-    <BrowserRouter basename="/lavit-solutions">
+    <BrowserRouter basename="/">
       <div className="min-h-screen bg-gray-100">
         <Navbar />
         <main>
